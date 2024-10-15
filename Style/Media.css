@@ -1,0 +1,402 @@
+
+
+@media(max-width:1241px){
+    .section2{
+        height: 400px;
+ 
+    }
+    .leftimage{
+        background-position:-100%;
+    }
+    .midimage{
+        background-position: center;
+    }
+   
+        
+        
+        
+    
+    .oimage{
+        width: 15%;
+        
+    }
+    
+
+    
+}
+
+
+@media(max-width:1160px){    
+    .home ul{
+        display: none;
+
+    }
+    .godlike{
+        padding-left: 50px;
+       
+    }
+    .home a .non{
+        display: block;
+        margin-top: 2px;
+    }
+    
+    
+    
+
+    
+   
+}
+@media(max-width:1123px){
+    .incredible h2{
+        margin: 15px 0px;
+
+    }
+   
+        
+        
+        
+    
+    .logodiv{
+        gap: 30px;
+    }
+
+    
+    
+}
+
+
+
+@media(max-width:1050px){
+    .section2{
+        height: 300px;
+
+    }
+    .midimage{
+        background-position: center;
+    }
+   
+        
+        
+        
+    
+    .logodiv{
+        gap:30px
+    }
+
+    .section5 img{
+        width: 600px;
+        height: 340px;
+    }
+    
+    
+}
+
+
+
+@media(max-width:940px){
+    
+        
+        
+        
+    
+    .oimage{
+        width: 17%;
+        
+    }
+    .section5 img{
+        width:470px;
+        height: 280px;
+    }
+    
+}
+
+ @media(max-width:840px){
+    
+        
+        
+        
+    
+    .oimage{
+        width: 19%;
+        
+    }
+
+   
+    .logodiv{
+        gap:50px;
+    }
+
+    
+}
+ 
+
+
+
+
+@media(max-width:770px){
+    .usa a{
+        padding: 0px 10px;
+
+    }
+    .logo a{
+        padding: 0px 15px;
+    }
+    .logo{
+        padding-right: 50px;
+    }
+    .usa ul{
+        padding-left: 50px;
+    }
+    .home{
+        padding-right: 40px;
+    }
+    .section2{
+        height: 200px;
+    }
+    .section3{
+        align-items: center; 
+        flex-direction: column;
+        
+       
+        
+    }
+    .battles{
+        margin: 70px 0px;
+        width: 80%;
+    }
+    .awards{
+        width: 80%;
+    }
+    .incredible{
+        width: 80%;
+    }
+
+    .number{
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .epic{
+        margin: 140px 0px;
+    }
+
+   
+        
+    
+    .section6 img{
+        height: 30px;
+        width: 30px;
+    }
+    .oimage{
+        width: 15%;
+        
+    }
+    
+    
+
+
+
+
+    @media(max-width:660px){
+        .logodiv{
+            gap: 80px;
+        
+            
+
+        }
+        
+
+
+    
+    
+       
+    
+
+}
+
+
+    @media(max-width:610px){
+        
+        .oimage{
+            width: 17%;
+            
+        }
+        
+    }
+     .shortimage , .shortimage3{
+        display: none;
+
+    }
+    .shortimage2{
+        width:70%;
+    }
+    
+    .section7{
+        justify-content: center;
+    }
+
+    .section8 input{
+        width: 350px;
+     
+        
+ 
+
+}
+.section8 h1{
+    font-size: 28px;
+}
+.section8 p{
+    right: 102px;
+  
+   
+    
+   
+}
+
+
+}
+    
+
+@media(max-width:570px){
+    .unique,.epic{
+        width: 60%;
+
+    }
+    .section5 img{
+        width: 320px;
+        height: 180px;
+    }
+
+    
+    
+   
+ }
+
+
+
+@media(max-width:550px){
+    .usa img{
+        display: block;
+
+    }
+    .usa a{
+        display: none;
+    }
+    
+    .logo{
+        padding-right: 20px;
+    }
+    .usa ul{
+        padding-left: 20px;
+    }
+    .section2{
+        height: 150px;
+    }
+    
+    .oimage{
+        width: 20%;
+        
+    }
+
+    .section8 input{
+        width: 270px;
+     
+        
+ 
+
+}
+.section8 h1{
+    font-size: 23px;
+}
+.section8 p{
+ right: 63px;
+    
+  
+   
+    
+   
+}
+.logodiv{
+   gap:100px
+    
+
+}
+.yp3{
+    width: 20%;
+   
+}
+
+    
+    
+}
+
+@media(max-width:460px){
+    .shortimage2{
+        width:80%;
+    }
+    
+    
+   
+
+}
+
+
+@media(max-width:441px){
+    .home a{
+        padding: 0px 10px;
+
+    }
+    .section2{
+        height: 120px;
+    }
+   
+       
+    .oimage{
+        width: 22%;
+        
+    }
+
+
+    .section8 input{
+        width: 220px;
+     
+        
+
+}
+.section8 h1{
+    font-size: 34px;
+}
+.section8 p{
+    right:39px;
+   
+  
+   
+    
+   
+}
+
+}
+
+
+
+
+    
+    
+
+
+@media(max-width:376px){
+
+    .oimage{
+        width: 23%;
+        
+    }
+    
+}
+
+
+
+
+
+
+
+
